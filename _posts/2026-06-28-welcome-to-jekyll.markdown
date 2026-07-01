@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Titulo en el encabezado del post"
+title:  "Start"
 date:   2026-06-28 15:58:11 -0600
 categories: jekyll update
 ---
