@@ -23,10 +23,5 @@ layout: home
 - 👎Respeto tu opinion equivocada
 - ✋Objeción fundamental
 
-# Orden del día para reunion: Julio 2
-- Hacer una lista de alergias y restricciones alimentarias, lista de alimentos que no nos gustan, que no nos gustan pero toleramos, que nos gustan. 
-- Establecer acuerdos puntuales (pero no sé muy bien con respecto a qué) 
-- Mapearnos (donde habita cada quien) para optimizar distancias, puntos de encuentro etc. 
-- Compartir habilidades particulares o cosa que podemos aportar al proyecto, horarios de disponibilidad. 
-- Definir cómo queremos que sea la dinámica (juntarnos a cocinar, cada quien separado, etc)
+# Orden del día para reunion: Julio 11 
 
