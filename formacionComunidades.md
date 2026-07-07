@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Propuestas: Formación comunidades
+title: Propuestas Formación comunidades
 permalink: /propuestas/formacion/
 ---
 
