@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Propuestas: Formación comunidades
-permalink: /propuestas/formacion-comunidades
+permalink: /propuestas/formacion-comunidades/
 ---
 
 # Creating a Life Together

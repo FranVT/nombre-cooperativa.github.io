@@ -32,9 +32,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Add header pages 
 header_pages:
-  - /propuestas/
+  - propuestas.md
+  - about.markdown   # si quieres que también aparezca
 
 # Exclude from processing.
 # The following items will not be processed, by default.
