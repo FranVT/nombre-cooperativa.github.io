@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Propuestas Formación comunidades
+title: Propuestas: Formación comunidades
 permalink: /propuestas/formacion/
 ---
 
@@ -50,18 +50,3 @@ En base a un libro-manual se sintentizo la siguiente lista de cosas para acordar
 - Cómo hacemos el proyecto sostenible
 - Acción política
 
-# Emancipación
-
-| Emancipación (Interminable) | | | | | | |
-|---|---|---|---|---|---|---|
-| Ideal: Una sola cooperativa que abarque todas las áreas | | | | | | |
-| **Qué?** | **Alimentaria** | **Salud** | **Trabajo** | **Económica** | **Vivienda** | **Seguridad** |
-| **Cómo se ve?** | Que la dependencia mercantil para la procuración de los alimentos sea reducida al mínimo posible. | Acceso a servicios de salud "independientes" y enfocados en la persona, buscando reducir la necesidad de acudir al sistema hospitalario al mínimo posible. | Que la actividad laboral sea 100% para nuestros propios fines, intereses, etc.<br>Y poder nosotrxs mismxs disfrutar del producto de la chamba. | Que la dependencia y el uso de dinero se vea reducido al mínimo posible. | Que el lugar en el que se habite sea tan sustentable como sea posible, sin necesidad (o que sea mínima) de conectividad con el sistema estatal | |
-| **Qué necesitamo'?** | Conocimiento y práctica en plantar y cosechar frutas y verduras | Conocimientos básicos de medicina para casos de emergencia<br>(Suturas, RCP, control de hemorragias, identificación básica de infecciones/enfermedades) | Conocimientos administrativos y/o de gestión | Conocimiento y práctica en modelos de intercambio alternativos al dinero | El espacio/lugar xd | |
-| | Herramientas para preparar los alimentos (gas, horno, estufa, etc) | Conocimientos en medicina "alternativa" | Resignificar y reapropiarnos de conceptos "empresariales" | Conocimiento en tácticas de negociación de intercambios | Conocimientos en mantenimiento de edificios (plomería, electricidad, carpintería, albañilería, etc) | |
-| | Métodos de procuración de insumos con base en trueque/intercambios | | Conocimiento sobre modelos cooperativistas de negocio | Seguridad y cuidados en el uso actual y futuro de dinero | | |
-| | Conocimientos en alimentación sana | | Conseguir un espacio físico de trabajo y la maquinaria/herramientas necesarias | | | |
-| **Qué podríamos hacer?** | Huerto comunitario (uno o varios en simultáneo) | Clínicas comunitarias | Supermercado | | Cooperativa de vivienda | |
-| | Supermercado cooperativista | | Cafetería | | | |
-| | Algo relacionado a comida | | Servicios de consultoría profesional | | | |
-| | Cooperativa de consumo | | | | | |
