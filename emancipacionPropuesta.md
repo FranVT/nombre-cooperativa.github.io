@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Propuesta: Emancipación 
+title: Propuesta Emancipación 
 permalink: /propuestas/emancipacion/
 ---
 
