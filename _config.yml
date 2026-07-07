@@ -28,9 +28,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   #github_username:  jekyll
 
 # Build settings
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+
+# Configuración de navegación
+aux_links:
+  "Repositorio en GitHub":
+    - "//github.com/FranVT/nombre-cooperativa.github.io"
 
 header_pages:
   - about.markdown   # si quieres que también aparezca
