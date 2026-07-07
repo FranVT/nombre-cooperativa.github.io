@@ -33,7 +33,6 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - propuestas.md
   - about.markdown   # si quieres que también aparezca
 
 # Exclude from processing.

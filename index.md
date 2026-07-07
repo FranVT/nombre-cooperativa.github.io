@@ -4,8 +4,8 @@ layout: home
 ---
 
 # Pruebas de enlaces y así
-- [Emancipación Propuesta](/propuestas-emancipacion/)
-- [Formación de Comunidades](/propuestas-formacion/)
+- [Emancipación Propuesta](/emancipacion/)
+- [Formación de Comunidades](/formacion/)
 
 # Acuerdos
 - Reuniones semanales, preferenica presencial

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Propuesta Emancipación
-permalink: /propuestas-emancipacion/
+permalink: /emancipacion/
 ---
 
 <h2>Emancipación (Interminable)</h2>
