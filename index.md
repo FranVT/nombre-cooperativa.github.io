@@ -3,10 +3,6 @@ title: Inicio
 layout: home
 ---
 
-# Pruebas de enlaces y así
-- [Emancipación Propuesta](/emancipacion/)
-- [Formación de Comunidades](/formacion/)
-
 # Acuerdos
 - Reuniones semanales, preferenica presencial
 	- Una semana jueves virtual
