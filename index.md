@@ -15,8 +15,8 @@ nav_order: 1
 - No dar por sentada la comodiad
 - Tener confianza a la confrontación
 
-# Propuesta activa de la cooperativa
-- Gestión colectiva de alimentos
+# Orden del día para reunion: Julio 11 
+
 
 # Sistema de votación económica
 - 👍 De acuerdo
@@ -24,5 +24,4 @@ nav_order: 1
 - 👎Respeto tu opinion equivocada
 - ✋Objeción fundamental
 
-# Orden del día para reunion: Julio 11 
 
