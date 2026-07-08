@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Propuesta Emancipación
-permalink: /emancipacion/
+title:  "Emancipación"
+parent: Propuestas
+permalink: /propuestas/propuesta-1/
+nav_order: 1
 ---
 
 <h2>Emancipación (Interminable)</h2>
