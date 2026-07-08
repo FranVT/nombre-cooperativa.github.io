@@ -1,0 +1,34 @@
+# Personas en el grupo
+Fran
+Carla
+Aza
+Chuy 
+Samara
+Cami
+Carmen
+Cristobal
+Dania 
+Febe 
+Jorge
+Juan Carlos 
+Mayra 
+Rafa
+
+
+# Personas que han votado
+Fran
+Febe
+Dania
+Chuy
+Juan Carlos
+Cami
+Samara
+Aza
+
+# Personas que no han votado 
+Carla
+Carmen 
+Cristobal 
+Jorge
+Mayra
+Rafa
