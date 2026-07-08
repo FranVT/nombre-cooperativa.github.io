@@ -5,5 +5,6 @@ permalink: /notas/
 nav_order: 2
 has_children: true
 ---
-# Propuestas de la cooperativa
-Aquí listamos las distintas áreas de trabajo.
+
+# Notas
+Acá van las notas de las sesiones.
