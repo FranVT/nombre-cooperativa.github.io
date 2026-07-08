@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Formación comunidades"
-parent: Propuestas
-permalink: /propuestas/propuesta-2/
+parent: Sugerencias
+permalink: /sugerencias/sugerencias-2/
 nav_order: 2
 ---
 

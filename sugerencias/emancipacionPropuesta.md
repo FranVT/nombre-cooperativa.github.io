@@ -1,8 +1,8 @@
 ---
 layout: page
 title:  "Emancipación"
-parent: Propuestas
-permalink: /propuestas/propuesta-1/
+parent: Sugerencias 
+permalink: /sugerencias/sugerencias-1/
 nav_order: 1
 ---
 

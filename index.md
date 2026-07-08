@@ -17,6 +17,9 @@ nav_order: 1
 
 # Orden del día para reunion: Julio 11 
 
+Las propuestas están acomodadas de tal forma que las primeras propuestas tienen la mayor aceptación, hasta encontrar las propuestas con mayor cantidad de objeciones fundamentales.
+La idea es acordar la metodología para realizar las propuestas y/o discutir la propuesta.
+
 **Recetario:** Desarrollar un recetario compartido que considere alergias y hábitos alimenticios.
 - 👍| 12 
 - 🫳| 0 
