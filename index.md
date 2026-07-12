@@ -16,31 +16,15 @@ nav_order: 1
 - Tener confianza a la confrontación
 
 
-# Orden del día para reunion: Julio 11 
+# Orden del día para reunion: Julio 16 
 
-Recetario: Desarrollar un recetario compartido que considere alergias y hábitos alimenticios.
-
-Sistema de votación: Definir sistema de votaciones o de acuerdos.
-
-Documento de visión: Redactar un documento formal con la visión colectiva, los objetivos específicos y una hoja de ruta.
-
-Asamblea vs. Sesiones de trabajo: Diferenciar claramente entre asambleas de toma de decisiones y sesiones prácticas de trabajo programadas.
-
-Diagrama de flujo: Crear un diagrama visual del proceso para mapear el flujo de trabajo y distribuir tareas.
-
-Prueba piloto interna: Organizar una cena/cocinada de prueba solo para el grupo para mapear logística, costos y flujo de trabajo antes de escalar.
-
-Formación cooperativista: Realizar sesiones periodicas de formación sobre modelos cooperativos y administración.
-
-Sistema de equivalencias: Establecer un mecanismo que equipare el tiempo aportado ó el dinero aportado (incluyendo un “banco de horas”) ó acciones realizadas.
-
-Presupuesto semanal: Calcular el costo aproximado de los ingredientes consumidos por semana para fijar una meta concreta (ej. reducir el costo del platillo en un 20 %).
-
-Nutriólogo/a: Contratar a un nutriólogo a mediano plazo; a corto plazo, usar tablas nutricionales.
-
-Expansión por fases: Iniciar con un proyecto enfocado en alimentos (fondita/comidas comunales) para generar excedentes, y luego evolucionar hacia una objetoteca y finalmente un espacio cultural.
-
-Células de trabajo (cédulas): Crear comisiones o células especializadas (ej. compras, cocina, distribución, mantenimiento) para que no todos tengan que hacer todo.
+- Se comentó qué es mejor realizarla presencialmente.
+- Se disctiran los temas de:
+    - Sistema de votación
+    - Asamblea vs Sesiones de trabajo
+    - Sistema de equivalencias
+    - Prueba piloto interna
+    - Documento de visión
 
 
 # Sistema de votación económica
