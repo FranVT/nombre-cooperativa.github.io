@@ -16,15 +16,35 @@ nav_order: 1
 - Tener confianza a la confrontación
 
 
-# Orden del día para reunion: Julio 16 
+# Reunion: Julio 16 
 
-- Se comentó qué es mejor realizarla presencialmente.
-- Se disctiran los temas de:
-    - Sistema de votación
-    - Asamblea vs Sesiones de trabajo
-    - Sistema de equivalencias
-    - Prueba piloto interna
-    - Documento de visión
+## Lugar y hora de encuentro
+- **Lugar**: Casa de Mayra y Jorge
+- **Hora**: 19:00 hrs
+
+## Temas pendientes
+Temas pendientes de la sesión pasada:
+- Sistema de votación
+- Asamblea vs Sesiones de trabajo
+- Sistema de equivalencias
+- Prueba piloto interna
+- Documento de visión
+
+### Discusiones abiertas
+- Personas "externas"
+    - Sistemas de puntos
+    - Organización de tareas
+    - Tienda de raya
+- Prueba piloto
+    - Juan Carlos tiene una propuesta
+    - Mayra y Jorge lanzaron otra propuesta 
+    - Rafa tiene otra propuesta
+
+### Pendientes
+- Pasamos el grupo de whatsapp a comunidad?
+    - Tener un canal de spam de puras recetas
+- Contestar la encuensta de alimentación: [Encuesta](https://forms.gle/ANvuE7CNvKz5wk1K9)
+
 
 
 # Sistema de votación económica
