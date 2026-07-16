@@ -33,11 +33,11 @@ fecha-inicial Actividad +Persona reposnable @contexto
 - Periódica
 
 #### Distribución de tiempos
-- Bloque discusión | 45 minutos
-- Bloque descanso | 10 minutos
-- Bloque discusión | 45 minutos
-- Bloque descanso | 10 minutos
-- Bloque final | 15 minutos
+- Bloque discusión : 45 minutos
+- Bloque descanso : 10 minutos
+- Bloque discusión : 45 minutos
+- Bloque descanso : 10 minutos
+- Bloque final : 15 minutos
 
 En el bloque final se arma la orden del día para la siguiente asamblea.
 
@@ -49,11 +49,11 @@ En el bloque final se arma la orden del día para la siguiente asamblea.
 - Pueden surgir propuestas, pero no se aceptan o rechazan
 
 #### Distribución de tiempos
-- Bloque trabajo | 45 mins
-- Break | 5 mins
-- Bloque Trabajo | 45 mins
-- Break | 5 mins
-- Cierre | 10 mins
+- Bloque trabajo : 45 mins
+- Break : 5 mins
+- Bloque Trabajo : 45 mins
+- Break : 5 mins
+- Cierre : 10 mins
 
 ## Propuesta para Gestionar documentación y demás
 - Obsidian
