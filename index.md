@@ -16,34 +16,25 @@ nav_order: 1
 - Tener confianza a la confrontación
 
 
-# Reunion: Julio 16 
+# Reunion: Julio 25 
 
 ## Lugar y hora de encuentro
-- **Lugar**: Casa de Mayra y Jorge
-- **Hora**: 19:00 hrs
+- **Lugar**: 
+- **Hora**: 
 
-## Temas pendientes
-Temas pendientes de la sesión pasada:
-- Sistema de votación
-- Asamblea vs Sesiones de trabajo
-- Sistema de equivalencias
-- Prueba piloto interna
-- Documento de visión
-
-### Discusiones abiertas
-- Personas "externas"
-    - Sistemas de puntos
-    - Organización de tareas
-    - Tienda de raya
-- Prueba piloto
-    - Juan Carlos tiene una propuesta
-    - Mayra y Jorge lanzaron otra propuesta 
-    - Rafa tiene otra propuesta
+## Orden del día
+- Discutir qué va en asamblea y qué no.
+- Abordar el tema de personas añadidas (Juan Carlos y Cami).
+- Definir qué haremos en la sesión de documentos de visión.
 
 ### Pendientes
-- Pasamos el grupo de whatsapp a comunidad?
-    - Tener un canal de spam de puras recetas
-- Contestar la encuensta de alimentación: [Encuesta](https://forms.gle/ANvuE7CNvKz5wk1K9)
+- 2026-07-11 Contestar la encuensta de alimentación: [Encuesta](https://forms.gle/ANvuE7CNvKz5wk1K9) @Grupo
+- 2026-07-11 **Agendar siguiente sesión:** Enviar horario y lugar para el **Sábado 25 de julio**. (Pendiente: definir lugar exacto). @Grupo
+- 2026-07-16 Compartir su hoja de trabajo de visión con el grupo. @Samara
+- 2026-07-16 Definir quién llevará la administración (Excel, libreta, etc.). @Grupo
+- 2026-07-16 Pasar el grupo de WhatsApp (mencionado por Sam para migrar o reorganizar). @Grupo
+- 2026-07-16 Crear una lista de las ubicaciones de las personas que integramos la cooperativa en google maps. @Carmen
+- 2026-07-16 Crear una lista de puntos a anotar/registrar durante la prueba piloto @Fran
 
 
 
