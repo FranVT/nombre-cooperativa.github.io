@@ -16,25 +16,23 @@ nav_order: 1
 - Tener confianza a la confrontación
 
 
-# Reunion: Julio 25 
+# Reunion: Agosto 8 
 
 ## Lugar y hora de encuentro
 - **Lugar**: 
 - **Hora**: 
 
 ## Orden del día
-- Discutir qué va en asamblea y qué no.
-- Abordar el tema de personas añadidas (Juan Carlos y Cami).
-- Definir qué haremos en la sesión de documentos de visión.
+  - Discutir qué va en asamblea y qué no.
+  - Definir qué haremos en la sesión de documentos de visión.
+  - Definir la ejecución de la prueba piloto.
 
 ### Pendientes
 - 2026-07-11 Contestar la encuensta de alimentación: [Encuesta](https://forms.gle/ANvuE7CNvKz5wk1K9) +Grupo
-- 2026-07-11 **Agendar siguiente sesión:** Enviar horario y lugar para el **Sábado 25 de julio**. (Pendiente: definir lugar exacto). +Grupo
+- 2026-07-11 **Agendar siguiente sesión:** Enviar horario y lugar para el **Sábado 8 de agosto**. (Pendiente: definir lugar exacto). +Grupo
 - 2026-07-16 Compartir su hoja de trabajo de visión con el grupo. +Samara
 - 2026-07-16 Definir quién llevará la administración (Excel, libreta, etc.). +Grupo
-- 2026-07-16 Pasar el grupo de WhatsApp (mencionado por Sam para migrar o reorganizar). +Grupo
 - 2026-07-16 Crear una lista de las ubicaciones de las personas que integramos la cooperativa en google maps. +Carmen
-- 2026-07-16 Crear una lista de puntos a anotar/registrar durante la prueba piloto +Fran
 
 # Sistema de votación económica
 - 👍 De acuerdo
