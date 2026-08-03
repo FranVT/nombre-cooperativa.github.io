@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sugerencias 
+title: Sugerencias
 permalink: /sugerencias/
 nav_order: 3
 has_children: true
