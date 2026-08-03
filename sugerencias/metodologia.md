@@ -3,7 +3,7 @@ layout: page
 title:  "Sugerencias de formas de organicación y demás"
 parent: Sugerencias
 permalink: /sugerencias/sugerencias-3/
-nav_order:3 
+nav_order:3
 ---
 
 ## Propuesta de formato para lista de actividades
