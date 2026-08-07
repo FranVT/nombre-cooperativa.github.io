@@ -20,7 +20,7 @@ nav_order: 1
 
 ## Lugar y hora de encuentro
 - **Lugar**: 
-- **Hora**: 
+- **Hora**: 11:00 hrs
 
 ## Orden del día
   - Discutir qué va en asamblea y qué no.
